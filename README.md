@@ -1,9 +1,6 @@
-## Hi there 👋
+## Fullstack web developer in training student👋
 
-<!--
-**VanderleneO/vanderleneO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am currently studying en webdevelop student at Factoria F5. Here you can my class projects and personal tests.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
