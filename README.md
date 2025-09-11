@@ -1,4 +1,4 @@
-#  ¡Hola, soy Vaderlene Oliveira! 👋
+#  ¡Hola, soy Vanderlene Oliveira! 👋
 
 🚀 Estudiante de **Desarrollo Fullstack**  
 ✨ Me encanta aprender, crear proyectos web y crecer como desarrolladora cada día.  
@@ -16,9 +16,10 @@
 ---
 
 ## 🔥 Estadísticas divertidas
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=vaderleneoliveira&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=vaderleneoliveira&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=vaderleneoliveira&theme=radical&date_format=j%20M%5B%20Y%5D)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&date_format=j%20M%5B%20Y%5D)
+
 
 ---
 
