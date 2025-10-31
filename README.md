@@ -16,9 +16,9 @@
 ---
 
 ## 🔥 Estadísticas divertidas
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&date_format=j%20M%5B%20Y%5D)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=vanderleneo&show_icons=true&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=vanderleneo&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=vanderleneo&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 
 ---
